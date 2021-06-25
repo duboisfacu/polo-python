@@ -1,0 +1,23 @@
+Pregunta 1:
+Según las tablas de verdad de las operaciones lógicas, la salida de la siguiente instucción será 'false'
+True and False or False and True
+
+Opción 1:
+Verdadero
+
+Opción 2:
+Falso
+
+Pregunta 2:
+Tengo dos variables 'nombre' y 'edad'. Determina el resultado de la siguiente operación lógica: si nombre = 'Joaquin' y edad = 30
+
+nombre != 'Joaquin' or edad > 21
+
+Opción 1:
+Verdadero
+
+Opción 2:
+Falso
+
+Pregunta 1: Opción 1
+Pregunta 2: Opción 1

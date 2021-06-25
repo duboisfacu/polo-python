@@ -1,0 +1,20 @@
+Pregunta 1:
+Toda función debe especificar una instrucción "return"
+
+Opción 1:
+Verdadero
+
+Opción 2:
+Falso
+
+Pregunta 2:
+Para especificar múltiples parámetros que se utilizarán en la función, los separamos por comas dentro de los paréntesis al lado del nombre de la misma
+
+Opción 1:
+Verdadero
+
+Opción 2:
+Falso
+
+Pregunta 1: Opción 2
+Pregunta 2: Opción 1

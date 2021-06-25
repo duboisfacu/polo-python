@@ -1,0 +1,33 @@
+Pregunta 1:
+La función len() cuenta los caracteres de un string sin tener en cuenta sus espacios.
+
+Opción 1:
+Verdadero
+
+Opción 2:
+Falso
+
+Pregunta 2:
+Si tengo una variable string cuyo valor es "ezequiel" y aplico la funcion upper(), el resultado será:
+
+Opción 1:
+"Ezequiel"
+
+Opción 2:
+"eZEQUIEL"
+
+Opción 3:
+"EZQUIEL"
+
+Pregunta 3:
+La función strip() quita los espacios en un string al principio y al final del mismo.
+
+Opción 1:
+Verdadero
+
+Opción 2:
+Falso
+
+Pregunta 1: Opción 2
+Pregunta 2: Opción 3
+Pregunta 3: Opción 1

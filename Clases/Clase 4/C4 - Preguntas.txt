@@ -1,0 +1,41 @@
+Pregunta 1:
+En python, cómo se define la primera linea de una función
+
+Opción 1:
+def nombreFuncion(nombreParamentro)
+
+Opción 2:
+def nombreFuncion(nombreParamentro):
+
+Opción 3:
+nombreFuncion(nombreParamentro):
+
+
+Pregunta 2:
+variable1 = input('Ingrese su edad')
+¿De qué tipo de dato es esta función?
+Opción 1:
+str - Texto
+
+Opción 2:
+int - Entero
+
+Opción 3:
+float - Numero decimal
+
+
+Pregunta 3:
+¿Cuántas lineas de código puedo escribir dentro de una función?
+
+Opción 1:
+1 Linea
+
+Opción 2:
+Hasta 10 lineas
+
+Opción 3:
+Sin limite de lineas
+
+Pregunta 1: Opción 2
+Pregunta 2: Opción 1
+Pregunta 3: Opción 3

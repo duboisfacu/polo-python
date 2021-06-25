@@ -1,0 +1,20 @@
+Pregunta 1:
+Podemos anidar cuantos Ifs querramos
+
+Opción 1:
+Verdadero
+
+Opción 2:
+Falso
+
+Pregunta 2:
+La instrucción 'elif' necesita tener si o si un 'else' para luego cerrar el condicional.
+
+Opción 1:
+Verdadero
+
+Opción 2:
+Falso
+
+Pregunta 1: Opción 1
+Pregunta 2: Opción 2
