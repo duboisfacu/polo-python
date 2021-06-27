@@ -29,7 +29,7 @@ En los diccionarios, agregar (repetir) una clave existente implica un error de e
 [x] Falso
 ```
 
-<br>
+-----------------------------------------------------------
 <center>
 
 <h2 align="center"> Mis Redes </h2>

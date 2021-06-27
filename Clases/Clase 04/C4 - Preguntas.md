@@ -35,7 +35,7 @@ Pregunta 3: <br>
 [ ] Hasta 10 lineas
 [x] Sin limite de lineas
 ```
-<br>
+-----------------------------------------------------------
 <center>
 
 <h2 align="center"> Mis Redes </h2>

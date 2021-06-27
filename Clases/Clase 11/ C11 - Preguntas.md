@@ -31,7 +31,7 @@ Qué comando utilizar si deseo aregar un elemento al final del array ```miLista`
 [x] append()
 ```
 
-<br>
+-----------------------------------------------------------
 <center>
 
 <h2 align="center"> Mis Redes </h2>

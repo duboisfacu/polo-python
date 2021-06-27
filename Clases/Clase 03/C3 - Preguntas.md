@@ -45,7 +45,7 @@ Variable2 = 3.0
 [ ] No, ambas son float.
 ```
 
-<br>
+-----------------------------------------------------------
 <center>
 
 <h2 align="center"> Mis Redes </h2>

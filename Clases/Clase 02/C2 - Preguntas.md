@@ -21,7 +21,7 @@ Concatenar dos datos o variables ```string``` equivale a realizar una sumatoria 
 [ ] Falso
 ```
 
-<br>
+-----------------------------------------------------------
 <center>
 
 <h2 align="center"> Mis Redes </h2>

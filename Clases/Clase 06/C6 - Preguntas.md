@@ -25,7 +25,7 @@ nombre != 'Joaquin' or edad > 21
 [x] Verdadero
 [ ] Falso
 ```
-<br>
+-----------------------------------------------------------
 <center>
 
 <h2 align="center"> Mis Redes </h2>

@@ -27,7 +27,7 @@ La función ```strip()``` quita los espacios en un ```string``` al principio y a
 [ ] Falso
 ```
 
-<br>
+-----------------------------------------------------------
 <center>
 
 <h2 align="center"> Mis Redes </h2>

@@ -23,7 +23,7 @@ Pregunta 2: <br>
 [x] miLista.sort(reverse=True)
 ```
 
-<br>
+-----------------------------------------------------------
 <center>
 
 <h2 align="center"> Mis Redes </h2>

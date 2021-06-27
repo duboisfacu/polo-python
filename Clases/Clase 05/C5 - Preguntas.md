@@ -19,7 +19,7 @@ Para especificar múltiples parámetros que se utilizarán en la función, los s
 [x] Verdadero
 [ ] Falso
 ```
-<br>
+-----------------------------------------------------------
 <center>
 
 <h2 align="center"> Mis Redes </h2>

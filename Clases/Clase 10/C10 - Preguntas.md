@@ -49,7 +49,7 @@ Cuál es la opción correcta para una función que compruebe si un texto es vac�
 	if(len(texto.strip()) == 0):
 		print("Este texto es solo espacios o está vacío")
 ```
-<br>
+-----------------------------------------------------------
 <center>
 
 <h2 align="center"> Mis Redes </h2>

@@ -21,7 +21,7 @@ Windows es un sistema operativo gratuito, mientras que en Ubuntu se paga una lic
 [x] Falso
 ```
 
-<br>
+-----------------------------------------------------------
 <center>
 
 <h2 align="center"> Mis Redes </h2>

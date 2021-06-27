@@ -20,7 +20,7 @@ La instrucción ```'elif'``` necesita tener si o si un ```'else'``` para luego c
 [x] Falso
 ```
 
-<br>
+-----------------------------------------------------------
 <center>
 
 <h2 align="center"> Mis Redes </h2>
