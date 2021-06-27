@@ -18,7 +18,7 @@ Es un repositorio de ejercicios y actividades realizadas para el curso de Introd
 
 
 ***
-<h2 align="center"> Capacitación patrocinadá por </h2>
+<h2 align="center"> Capacitación patrocinadá por: </h2>
 <p  align="center">
   <a href="https://leistungargentina.com.ar/es/inicio/" target="_blank">
   <img src="README.resources/leistung.png" height=100px>
