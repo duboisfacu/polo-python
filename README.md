@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://minaclavero.polotecnologico.ar/">
-  <img height=250px src="https://i.ibb.co/BL0pJF8/Polo.png"/>
+  <img height=250px src="README.resources/polo.png"/>
   </a>
 </p>
 
@@ -24,16 +24,16 @@ Es un repositorio de ejercicios y actividades realizadas para el curso de Introd
 <h2 align="center"> Mis Redes </h2>
 <p  align="center">
 <a href="https://www.linkedin.com/in/duboisfacu/" target="_blank">
-  <img src="https://i.ibb.co/7VZQrXx/link.png" height=50px>
+  <img src="README.resources/lkn.png" height=50px>
 </a>
 <a href="https://www.instagram.com/duboisfacu/" target="_blank">
-  <img src="https://i.ibb.co/stNqbkw/ig.png" height=50px>
+  <img src="README.resources/ig.png" height=50px>
 </a>
 <a href="https://www.reddit.com/user/duboisfacu" target="_blank">
-<img src="https://i.ibb.co/4T7YM0V/reddit.png" height=50px>
+<img src="README.resources/rddt.png" height=50px>
 </a>
 <a href="https://twitter.com/duboisfacu" target="_blank">
-<img src="https://i.ibb.co/PxrxjS2/twitter.png" height=50px>
+<img src="README.resources/twt.png" height=50px>
 </a>
   </p>
 </center>
