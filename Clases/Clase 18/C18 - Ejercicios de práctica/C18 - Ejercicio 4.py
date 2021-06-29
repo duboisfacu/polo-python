@@ -1,8 +1,6 @@
-#hacer que el usuario ingrese palabras o textos
-#hasta ingresar un espacio en blanco o un texto vacio
+#interpolación
 
-while True:
-    inp=input("Ingrese un texto: ").strip()
-    if len(inp) < 1:
-        break
-print("Saliste!")
+var1 = "prueba"
+var2 = "concatenación"
+
+print(f"{var1} de {var2}") 
