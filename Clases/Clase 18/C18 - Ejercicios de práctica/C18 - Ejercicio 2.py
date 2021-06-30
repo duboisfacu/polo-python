@@ -5,7 +5,6 @@
 #hasta que seleccione una opción para salir del programa.
 
 
-#no terminado aun
 
 
 lista=[]
@@ -160,7 +159,7 @@ def Inicio():
     
     print("Calculadora super pro:")
     print("-------------------------------------------")
-    opcion = input("Opción a realizar: \n1 - Sumar \n2 - Restar\n3 - Multiplicar\n4 - Dividir\n")
+    opcion = input("Opción a realizar: \n1 - Sumar \n2 - Restar\n3 - Multiplicar\n4 - Dividir\n5 - Salir\n")
 
     if opcion == "1" or opcion == "SUMAR":
         Suma()
@@ -174,6 +173,8 @@ def Inicio():
     elif opcion == "4" or opcion == "DIVIDIR":
         Division()
         Inicio()
+    elif opcion == "5" or opcion == "SALIR":
+        exit()
     else:
         print("Opción no válida.") 
         Inicio()
