@@ -19,8 +19,10 @@ Seleccione el código que ejemplifica la recursividad.
 [ ] for x in range(100):
         for y in range(x):
             print(y)
+
 [ ] while(True):
         print("Hola")
+
 [x] def funcion():
         funcion()
 ```
